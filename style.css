@@ -1,0 +1,20 @@
+/*
+Theme Name: MJTravel - menu
+Theme URI: #
+Author: Mazen Ajab
+Author URI: https://www.linkedin.com/in/mazen-ajab-87630a70/
+Description: A basic theme using the Bootstrap framework.
+Version: 1.0
+
+*/
+
+.main-nav {
+    margin: auto;
+}
+
+#mainNav li.menu-item {
+    display: inline-block;
+    padding: 15px;
+    font-weight: bold;
+    float: right;
+}
